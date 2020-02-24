@@ -13,7 +13,7 @@ Four different modes can be chosen by pressing key "1", "2", "3" or "4" correspo
 The following is an exmaple.
 
 <p align="center">
- <img src="assign1_coreOpenGL/hw1/heightmap/GrandTeton-128.jpg" height="700"/>
+ <img src="assign1_coreOpenGL/hw1/heightmap/GrandTeton-128.jpg" width="400" height="400"/>
 </p >
 Take the above heightmap figure as an imput. Then Compile and Run. We will have the following four different scences.
 Mode 1:
