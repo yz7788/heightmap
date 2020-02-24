@@ -22,27 +22,27 @@ Mode 1:
 </p >
 Mode 2:
 <p align="center">
- <img src="figure/mode_2.png" width="70%" height="70%"/>
+ <img src="figure/mode_2.png"/>
 </p >
 Mode 3:
 <p align="center">
- <img src="figure/mode_3.png" width="300" height="300"/>
+ <img src="figure/mode_3.png"/>
 </p >
 Mode 4:
 <p align="center">
- <img src="figure/mode_4.png" width="300" height="300"/>
+ <img src="figure/mode_4.png"/>
 </p >
 
 For control: 
 Left Mouse Botton is used to rotate.
 <p align="center">
- <img src="figure/rotate.png" width="300" height="300"/>
+ <img src="figure/rotate.png"/>
 </p >
 Ctrl + Left Mouse Button is used for translate.
 <p align="center">
- <img src="figure/translate.png" width="300" height="300"/>
+ <img src="figure/translate.png"/>
 </p >
 Ctrl + Middle Mouse Button is used for scale.
 <p align="center">
- <img src="figure/scale.png" width="300" height="300"/>
+ <img src="figure/scale.png"/>
 </p >
