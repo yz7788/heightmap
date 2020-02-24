@@ -18,11 +18,11 @@ The following is an exmaple.
 Take the above heightmap figure as an imput. Then Compile and Run. We will have the following four different scences.
 Mode 1:
 <p align="center">
- <img src="figure/mode_1.png" width="50%" height="50%"/>
+ <img src="figure/mode_1.png" width="70%" height="70%"/>
 </p >
 Mode 2:
 <p align="center">
- <img src="figure/mode_2.png" width="300" height="300"/>
+ <img src="figure/mode_2.png" width="70%" height="70%"/>
 </p >
 Mode 3:
 <p align="center">
