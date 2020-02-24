@@ -11,3 +11,38 @@ Mode 4: smooth
 Four different modes can be chosen by pressing key "1", "2", "3" or "4" correspondingly. 
 
 The following is an exmaple.
+
+<p align="center">
+ <img src="assign1_coreOpenGL/hw1/heightmap/GrandTeton-128.jpg" height="700"/>
+</p >
+Take the above heightmap figure as an imput. Then Compile and Run. We will have the following four different scences.
+Mode 1:
+<p align="center">
+ <img src="figure/mode_1.png" height="700"/>
+</p >
+Mode 2:
+<p align="center">
+ <img src="figure/mode_2.png" height="700"/>
+</p >
+Mode 3:
+<p align="center">
+ <img src="figure/mode_3.png" height="700"/>
+</p >
+Mode 4:
+<p align="center">
+ <img src="figure/mode_4.png" height="700"/>
+</p >
+
+For control: 
+Left Mouse Botton is used to rotate.
+<p align="center">
+ <img src="figure/rotate.png" height="700"/>
+</p >
+Ctrl + Left Mouse Button is used for translate.
+<p align="center">
+ <img src="figure/translate.png" height="700"/>
+</p >
+Ctrl + Middle Mouse Button is used for scale.
+<p align="center">
+ <img src="figure/scale.png" height="700"/>
+</p >
